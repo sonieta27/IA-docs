@@ -23,8 +23,8 @@ Rama del campo de la Inteligencia Artificial, que busca como dotar a las máquin
 
 ## Paradigmas de aprendizaje
 
-* Aprendizaje supervisado
-* Aprendizaje no supervisado
+* Aprendizaje supervisado: tipo de aprendizaje donde alimentamos al algoritmo con datos etiquetados durante el entrenamiento. El algoritmo aprenderá a clasificar nuevos datos. Por ejemplo detectar spam.
+* Aprendizaje no supervisado:tipo de aprendizaje donde alimentamos al algoritmo con datos no etiquetados. El algoritmo aprenderá a encontrar patrones en los datos. Por ejemplo: encontrar encontrar clases de usuarios.
 * Aprendizaje reforzado
 
 ## Técnicas de Aprendizaje Automático
@@ -49,6 +49,14 @@ Rama del campo de la Inteligencia Artificial, que busca como dotar a las máquin
  
  También se puede referir  al proceso de análisi. de estos datos, desde su captura hasta su transformación en conocimiento.
 
+## HITOS
+
+## Deepmind
+* Alphago
+* AlphaStar
+* AlphaFold
+* AlphaCode
+* Gato
 
 
 
