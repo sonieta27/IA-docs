@@ -11,6 +11,10 @@ Subdisciplina del campo de la Informatica que busca la creación de máuinas que
 * Débil: Aquellos sistemas que solo pueden cumplir con un número muy limitado de tareas.
 * Fuerte: Aquellos sistemas que se pueden aplicar a una gran variedad de problemas y dominios diferentes.
 
+## IAMultimodal
+
+Se caracterizan por procesar múltiples conjuntos de distintos tipos de datos utilizando métodos basados en el aprendizaje para proporcionar información más precisa, veraz e inteligente.
+
 ## Campos de aplicación de la Inteligencia Artificial
 
 * Robótica
@@ -54,7 +58,7 @@ Rama del campo de la Inteligencia Artificial, que busca como dotar a las máquin
 ## Deepmind
 * Alphago
 * AlphaStar
-* AlphaFold
+* AlHitos tecnológicos y la definición de IA multimodal en la documentación de Github.phaFold
 * AlphaCode
 * Gato
 
