@@ -10,14 +10,14 @@ Debemos tratar de conseguir con este proyecto clasificar los distintos tipos de 
 - Contenedor marrón
 - Punto limpio
 
-##Día 1 
+## Día 1 
 
 He añadido unas cuantas imágenes, pero el % se ha dividido en todos los contenedores de manera que no me dice al que pertenece la basura o se equivoca.
 Al repasar y tratar de clasificar correctamente las imágenes en el dia 2, ha mejorado y ya clasifica las imágenes correctamente de manera automática.
 
-##Día 2
+## Día 2
 
-*Conjunto 1
+ Conjunto 1
 
 Al mejorar la calidad de la clasificación de imágenes en los contenedores ahora da un por ciento muy acertado con las imágenes que debemos usar para probar el funcionamiento del programa.
 A medida que voy probando las imágenes para observar el funcionamiento voy arreglando y poniendo también imágenes nuevas en los contenedores. Es la forma más rápida de probar que funciona e ir arreglando por el camino. Por ejemplo:
@@ -27,7 +27,7 @@ A medida que voy probando las imágenes para observar el funcionamiento voy arre
 - Gris: el pañal lo sitúa en el amarillo, cosa que no entiendo muy bien por qué porque tiene imagenes muy exactas incluidas en el contenedor. Con el corcho ocurre igual.
 - Marrón: funciona correctamente con las imágenes del conjunto 1.
 
-*Conjunto 2
+ Conjunto 2
 
 Comienzo a colocar imágenes del conjunto 2 y ocurre esto en los diversos contenedores:
 - Amarillo: Funcionan correctamente los objetos.
