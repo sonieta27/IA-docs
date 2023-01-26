@@ -36,4 +36,11 @@ Comienzo a colocar imágenes del conjunto 2 y ocurre esto en los diversos conten
 - Gris: LA colilla y cucharón los sitúa en al amarillo, creo que por su forma un poco al azar y debido a que no entiende exactamente su color y forma, en cambio el camión lo pone en el azul, tal vez porque parece cartón y haría falta de más imágenes parecidas o de diversos juguetes.
 
 ## EJEMPLOS EN IMÁGENES (DÍA 2)
-![](https://github.com/sonieta27/IA-docs/commit/f145f159af6aa0d8124ab7979947b7fbfd3a8cfd)
+![L](https://github.com/sonieta27/IA-docs/commit/f145f159af6aa0d8124ab7979947b7fbfd3a8cfd)
+
+
+
+
+
+
+
