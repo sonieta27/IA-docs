@@ -112,6 +112,36 @@ Forma de entender un texto haciendo preguntas sobre él.
 
 Forma de crear un sistema de inteligencia artificial que pueda mantener una conversación con un humano.
 
+## Reconocimiento de intenciones
+El reconocimiento de intenciones es un tipo de inteligencia artificial que permite a los chatbots comprender la intención del usuario. El reconocimiento de intención se utiliza para asignar la entrada del usuario a la respuesta adecuada. Por ejemplo, si un usuario le pide direcciones a un bot conversacional, el bot conversacional usará el reconocimiento de intención para entender que el usuario quiere direcciones a una ubicación específica.
+
+## Reconocimiento de entidades
+El reconocimiento de entidades es un tipo de inteligencia artificial que permite a los chatbots identificar información relevante en la entrada del usuario. Esta información podría ser palabras, frases, números u otros puntos de datos. El reconocimiento de entidades ayuda a los chatbots a comprender lo que quiere el usuario al identificar palabras clave y frases dentro de su entrada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
