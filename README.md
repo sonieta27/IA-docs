@@ -69,17 +69,15 @@ aYUDANdo a las empresas a ahorrar tiempo y dinero al automatizar el servicio al 
 
 ## VENTAJAS DE USAR UN CHATBOT
 
-– Mayor eficiencia: los chatbots pueden proporcionar respuestas rápidas a las preguntas y solicitudes de los clientes. Esto ahorra tiempo tanto para los clientes como para los agentes de servicio al cliente.
-– Precisión mejorada: dado que los chatbots funcionan con inteligencia artificial (IA), pueden reconocer con precisión la intención del usuario y brindar la respuesta adecuada a las consultas de los clientes.
-– Disponibilidad 24/7: los chatbots están disponibles las 24 horas, lo que significa que los clientes pueden obtener respuestas incluso cuando los agentes no están disponibles.
-– Ahorro de costos: los chatbots pueden ayudar a reducir los costos asociados con el servicio al cliente, ya que requieren menos personal y recursos que las opciones tradicionales de servicio al cliente.
-– Mayor satisfacción del cliente: los chatbots pueden brindar una ayuda más rápida y precisa, lo que mejora la satisfacción del cliente.
+* Mayor eficiencia: los chatbots pueden proporcionar respuestas rápidas a las preguntas y solicitudes de los clientes. Esto ahorra tiempo tanto para los clientes como para los agentes de servicio al cliente.
+* Precisión mejorada: dado que los chatbots funcionan con inteligencia artificial (IA), pueden reconocer con precisión la intención del usuario y brindar la respuesta adecuada a las consultas de los clientes.
+* Disponibilidad 24/7: los chatbots están disponibles las 24 horas, lo que significa que los clientes pueden obtener respuestas incluso cuando los agentes no están disponibles.
+* Ahorro de costos: los chatbots pueden ayudar a reducir los costos asociados con el servicio al cliente, ya que requieren menos personal y recursos que las opciones tradicionales de servicio al cliente.
+* Mayor satisfacción del cliente: los chatbots pueden brindar una ayuda más rápida y precisa, lo que mejora la satisfacción del cliente.
 
 ## DESVENTAJAS DE USAR UN CHATBOT
-
--Una desventaja de los chatbots es que pueden ser difíciles de entender. Los chatbots a menudo usan jerga o jerga, lo que puede dificultar su comprensión para algunos usuarios.
-
--Otra desventaja de los chatbots es que pueden estar sesgados. Esto se debe a que los chatbots suelen ser programados por humanos, y los humanos son criaturas sesgadas. Los chatbots también pueden heredar los sesgos de los datos en los que están entrenados.
+* Una desventaja de los chatbots es que pueden ser difíciles de entender. Los chatbots a menudo usan jerga o jerga, lo que puede dificultar su comprensión para algunos usuarios.
+* Otra desventaja de los chatbots es que pueden estar sesgados. Esto se debe a que los chatbots suelen ser programados por humanos, y los humanos son criaturas sesgadas. Los chatbots también pueden heredar los sesgos de los datos en los que están entrenados.
 
 
 ## CÓMO FUNCIONAN LOS CHATBOTS
@@ -96,21 +94,21 @@ Forma de clasificar los textos según su contenido. Por ejemplo, podrías clasif
 
 ## ETIQUETADO DE PALABRAS EN UNA ORACIÓN
 
-Forma de identificar la parte del discurso de cada palabra en una oración.
+* Forma de identificar la parte del discurso de cada palabra en una oración.
 
 ## GENERANDO TEXTO
 
-Forma de crear nuevos textos usando inteligencia artificial.
+* Forma de crear nuevos textos usando inteligencia artificial.
 
 ## TRADUCCIÓN DE LENGUAJE
-Forma de traducir texto de un idioma a otro.
+* Forma de traducir texto de un idioma a otro.
 
 ## CUESTIONES Y RESPUESTAS
-Forma de entender un texto haciendo preguntas sobre él.
+* Forma de entender un texto haciendo preguntas sobre él.
 
 ## IA CONVERSACIONAL
 
-Forma de crear un sistema de inteligencia artificial que pueda mantener una conversación con un humano.
+* Forma de crear un sistema de inteligencia artificial que pueda mantener una conversación con un humano.
 
 ## Reconocimiento de intenciones
 El reconocimiento de intenciones es un tipo de inteligencia artificial que permite a los chatbots comprender la intención del usuario. El reconocimiento de intención se utiliza para asignar la entrada del usuario a la respuesta adecuada. Por ejemplo, si un usuario le pide direcciones a un bot conversacional, el bot conversacional usará el reconocimiento de intención para entender que el usuario quiere direcciones a una ubicación específica.
